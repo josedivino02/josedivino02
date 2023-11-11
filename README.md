@@ -42,7 +42,7 @@
   ##
  
 <div align="center"> 
-    <div style="display: inline_block">
+    <div style="display: flex">
       <img align="center" height="210" alt="" src="code.gif">
       <a href="https://www.linkedin.com/in/josé-luiz-divino-aa5265169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href = "mailto:josedivinooficial02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
