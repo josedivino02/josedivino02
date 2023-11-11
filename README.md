@@ -39,14 +39,15 @@
     <img align="center" src="https://user-images.githubusercontent.com/124080522/274174502-60460a48-a864-4173-9b28-caf8832d143d.gif" alt="Imagem GIF">
 </div>
 
- <img align="left" height="250" alt="coding-time" src="code.gif">
-
   ##
  
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/josé-luiz-divino-aa5265169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:josedivinooficial02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/josedivino" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/divinokeys" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <div style="display: inline_block">
+      <img align="center" height="210" alt="" src="code.gif">
+      <a href="https://www.linkedin.com/in/josé-luiz-divino-aa5265169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href = "mailto:josedivinooficial02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://discord.gg/josedivino" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+      <a href="https://instagram.com/divinokeys" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    </div>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=305875&height=120&section=footer"/>
