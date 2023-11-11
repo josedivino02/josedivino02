@@ -40,7 +40,8 @@
 </div>
 
   ##
- 
+
+ ### Redes Sociais:
 <div align="center"> 
     <div style="display: flex">
 <!--       <img align="center" height="210" alt="" src="code.gif"> -->
