@@ -19,10 +19,10 @@
 <div style="display: flex;">
   <div style="display: inline-block; vertical-align: top;" align="center">
     <img align="center" alt="php" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="laravel" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+    <!--<img align="center" alt="laravel" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> -->
     <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="nesjs" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+    <!--<img align="center" alt="nesjs" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">-->
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="my-sql" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="mssql" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
