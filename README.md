@@ -3,10 +3,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=305875&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=305875&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+José+Divino;Desenvolvedor+Full+Stack;Bem+vindo!+:%29)](https://git.io/typing-svg)
-<div align="center">
+<!-- <div align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=josedivino02&show_icons=true&theme=cobalt"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedivino02&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+</div> -->
 <!-- <div align="center">
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=josedivino02&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
